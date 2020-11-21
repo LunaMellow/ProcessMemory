@@ -8,4 +8,4 @@ of an application.
 
 Anyone is free to use this code as they wish.
 
-Yours truely, Sofia.
+Yours truely, Luna.
